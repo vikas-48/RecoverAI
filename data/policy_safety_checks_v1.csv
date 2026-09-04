@@ -1,0 +1,4 @@
+check,value,target
+High-value (>₹50K) routed to human,1.0,1.0
+Attempt >=3 stopped for non-high-value cases,1.0,1.0
+Actions outside allowed set,0.0,0.0

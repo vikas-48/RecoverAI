@@ -1,0 +1,9 @@
+{
+  "revenue_at_risk": 36923622.190000005,
+  "baseline_expected_recovery": 12899237.717013318,
+  "recoverai_expected_recovery": 14959823.06838797,
+  "expected_recovery_improvement": 0.15974473814501944,
+  "baseline_interventions": 2653,
+  "recoverai_interventions": 2004,
+  "intervention_reduction": 0.24462872220128162
+}

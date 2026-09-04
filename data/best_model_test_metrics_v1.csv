@@ -1,0 +1,2 @@
+model,frozen_threshold,test_auc,test_pr_auc,test_accuracy,test_precision,test_recall,test_f1,tn,fp,fn,tp
+Logistic Regression,0.3,0.7475855592923912,0.8085173914584454,0.6876666666666666,0.6776894097948932,0.906494960806271,0.7755688622754491,444,770,167,1619

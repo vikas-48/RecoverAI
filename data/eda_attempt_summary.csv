@@ -1,0 +1,6 @@
+attempt_number,cases,recoverable_rate,avg_recovery_probability
+1,11634,65.4%,0.648
+2,6162,54.3%,0.546
+3,1790,46.6%,0.452
+4,362,35.1%,0.357
+5,52,40.4%,0.262

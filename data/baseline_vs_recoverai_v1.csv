@@ -1,0 +1,3 @@
+strategy,total_revenue_at_risk,expected_revenue_recovered,simulated_revenue_recovered,expected_recovery_rate,simulated_recovery_rate,interventions,unnecessary_interventions,unnecessary_intervention_rate
+Baseline,36923622.190000005,12899237.717013318,13145625.91,0.34934919577058204,0.3560221107873923,2653,1007,0.3795702977761025
+RecoverAI Policy v1,36923622.190000005,14959823.06838797,15059093.27,0.4051558915701268,0.4078444198272195,2004,587,0.29291417165668665

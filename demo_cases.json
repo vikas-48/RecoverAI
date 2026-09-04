@@ -1,0 +1,38 @@
+{
+  "successful_autonomous_recovery": {
+    "payment_id": "PAY200005",
+    "proposed_action": "schedule_retry",
+    "final_action": "schedule_retry",
+    "policy_approved": true,
+    "requires_human": false,
+    "success": true,
+    "outcome_status": "recovered",
+    "amount_recovered": 21292.06,
+    "reason": "Payment recovery verified successfully.",
+    "audit_id": "177f585c-3cea-4035-8f4d-a66a9c898eda"
+  },
+  "high_value_human_review": {
+    "payment_id": "PAY200011",
+    "proposed_action": "schedule_retry",
+    "final_action": "escalate",
+    "policy_approved": false,
+    "requires_human": true,
+    "success": false,
+    "outcome_status": "failed",
+    "amount_recovered": 0.0,
+    "reason": "High-value payment exceeds the automatic-action limit. Recovery action executed but payment was not recovered.",
+    "audit_id": "8579181e-9e46-4ca5-bd79-b22aa295533f"
+  },
+  "stopping_rule": {
+    "payment_id": "PAY200006",
+    "proposed_action": "stop",
+    "final_action": "stop",
+    "policy_approved": false,
+    "requires_human": false,
+    "success": false,
+    "outcome_status": "failed",
+    "amount_recovered": 0.0,
+    "reason": "Stopping rule: maximum recovery attempts reached. Recovery action executed but payment was not recovered.",
+    "audit_id": "f5ce1200-a2c5-461a-ac4e-ff0286be9dbb"
+  }
+}
